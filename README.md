@@ -3,7 +3,7 @@ an interactive map of African digital research literature repositories
 
 For an overview and further details, pls go to https://info.africarxiv.org/african-digital-research-repositories/
 
-## Cite as: 
+### Cite as: 
 Authors & Contributors in alphabetical order
 Bezuidenhout, Louise, Havemann, Jo, Kitchen, Stephanie, De Mutiis, Anna, Owango, Joy, & Zeni, Kevina. (2020). African Digital Research Repositories: Mapping the Landscape [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6464926
 
